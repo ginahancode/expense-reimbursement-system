@@ -1,0 +1,106 @@
+[INFO ] 2020-12-03 18:04:46.698 [main] DAOTest - Logging set up
+[INFO ] 2020-12-03 18:05:47.287 [main] DAOTest - Logging set up
+[ERROR] 2020-12-03 18:20:56.985 [main] DAOTest - Invalid employee login
+[ERROR] 2020-12-03 18:24:39.774 [main] DAOTest - Invalid employee login
+[ERROR] 2020-12-03 18:26:38.181 [main] DAOTest - Invalid employee login
+[ERROR] 2020-12-03 18:33:55.259 [main] DAOTest - Invalid employee login
+[INFO ] 2020-12-03 18:50:08.443 [main] DAO - Configuration set up
+[INFO ] 2020-12-03 18:50:08.618 [main] DAOTest - Manager added
+[INFO ] 2020-12-03 18:55:23.255 [main] DAO - Configuration set up
+[INFO ] 2020-12-03 18:55:23.420 [main] DAOTest - Employee added
+[INFO ] 2020-12-03 18:59:06.398 [main] DAO - Configuration set up
+[INFO ] 2020-12-03 18:59:06.403 [main] DAOTest - Reimbursement added
+[INFO ] 2020-12-03 18:59:36.636 [main] DAO - Configuration set up
+[INFO ] 2020-12-03 18:59:36.640 [main] DAOTest - Reimbursement added
+[INFO ] 2020-12-03 19:00:07.835 [main] DAO - Configuration set up
+[INFO ] 2020-12-03 19:00:08.025 [main] DAOTest - Reimbursement added
+[INFO ] 2020-12-04 08:17:52.299 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:19:42.264 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:20:51.052 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:27:19.633 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:33:01.370 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:33:01.640 [main] DAOTest - Employee added
+[INFO ] 2020-12-04 08:35:29.875 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:35:30.038 [main] DAOTest - Employee added
+[INFO ] 2020-12-04 08:36:05.668 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:39:32.502 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:39:32.923 [main] DAOTest - Employee added
+[INFO ] 2020-12-04 08:47:46.083 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:49:02.276 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:49:47.009 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:30.242 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:30.765 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:31.138 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:31.426 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:31.740 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:32.140 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:32.556 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:32.882 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:33.215 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:33.455 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:33.782 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:34.196 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:34.566 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:34.849 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:35.160 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:35.447 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:35.700 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:36.016 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:36.381 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:55.174 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:55.961 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:56.368 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:56.675 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:56.932 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:57.326 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:57.652 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:57.970 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:58.341 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:58.625 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:58.949 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:59.397 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:53:59.829 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:54:00.212 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:54:00.536 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:54:00.846 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:54:01.375 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:54:02.014 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:54:02.738 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:54:48.418 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:54:49.174 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:54:49.587 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:54:49.908 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:54:50.226 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:54:50.656 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:54:51.039 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:54:51.354 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:54:51.685 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:54:51.932 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:54:52.238 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:54:52.646 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:54:53.003 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:54:53.292 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:54:53.618 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:54:53.977 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:54:54.302 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:54:54.603 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:54:54.990 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:59:54.944 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:59:55.845 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:59:56.298 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:59:56.654 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:59:56.985 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:59:57.493 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:59:57.932 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:59:58.318 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:59:58.722 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:59:59.035 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:59:59.394 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 08:59:59.838 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 09:00:00.394 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 09:00:00.738 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 09:00:01.086 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 09:00:01.446 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 09:00:01.770 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 09:00:02.125 [main] DAO - Configuration set up
+[INFO ] 2020-12-04 09:00:02.601 [main] DAO - Configuration set up
