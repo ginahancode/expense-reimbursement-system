@@ -36,11 +36,11 @@ This system allows for quick and effecient handling and viewing of expense reimb
 
 ## Getting Started
    
-type `https://github.com/ginahancode/expense-reimbursement-system.git` to clone this repo
+Type `https://github.com/ginahancode/expense-reimbursement-system.git` to clone this repo
 
 ## Usage
 
-* A database connection needs to be established. Proper credentials must be provided in the `/src/main/resources` directory.
+A database connection needs to be established. Proper credentials must be provided in the `/src/main/resources` directory.
 
 ## Contributors
 
